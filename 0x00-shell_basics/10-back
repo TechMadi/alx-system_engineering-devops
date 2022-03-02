@@ -1,2 +1,2 @@
-#!/bin/bash/
-/var
+#!/bin/bash
+cd ..
